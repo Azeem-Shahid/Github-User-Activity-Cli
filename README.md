@@ -80,13 +80,4 @@ This project is part of the [GitHub User Activity project on roadmap.sh](https:/
 ## License
 
 This project is licensed under the MIT License.
-```
 
-### Steps to Create the README File:
-
-1. Open your project folder.
-2. Create a new file named `README.md`.
-3. Copy and paste the content above into the `README.md` file.
-4. Save the file.
-
-This `README.md` file will help guide anyone who uses or contributes to your project, providing clear instructions for installation, usage, and an overview of the project's purpose.
